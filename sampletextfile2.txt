@@ -1,2 +1,3 @@
 this is simple file 2
 This is comparison lecture, change in file 2
+this is git stash lecture, change in file 2
