@@ -1,1 +1,4 @@
 this is simple file 2
+
+
+sample revert commit 2
