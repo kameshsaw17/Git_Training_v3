@@ -5,3 +5,4 @@ hello my name is kamesh kumar saw
 i  live at pune. want to swicht the jipb form tcs to infosys. better to keeo my all tin thhe sam elwsson and already excel intotge career .`
 sampel revert commmit 1
 This is comparison lecture
+this is git stash lecture, change in main file
